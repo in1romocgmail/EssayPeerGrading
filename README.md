@@ -10,9 +10,13 @@ Contiene las evaluaciones realizadas por el profesor a los 91 estudiantes utiliz
 
 ### Columnas:
 ID: Identificador anonimizado del estudiante.
+
 Writing: Puntuación (1-5) sobre la calidad de la escritura.
+
 Format and organization: Puntuación (1-5) sobre el formato y la organización.
+
 Language and bibliographic: Puntuación (1-5) sobre el lenguaje y la bibliografía.
+
 Argumentation: Puntuación (1-5) sobre la argumentación.
 
 ## Fichero PeerReview_Anonimizado.csv
@@ -21,9 +25,13 @@ Contiene evaluaciones realizadas por los propios estudiantes a los 91 estudiante
 
 ### Columnas:
 ID: Identificador anonimizado del estudiante.
+
 Writing: Puntuación (1-5) sobre la calidad de la escritura.
+
 Format and organization: Puntuación (1-5) sobre el formato y la organización.
+
 Language and bibliographic: Puntuación (1-5) sobre el lenguaje y la bibliografía.
+
 Argumentation: Puntuación (1-5) sobre la argumentación.
 
 ## Fichero Essay.csv
@@ -31,4 +39,5 @@ Argumentation: Puntuación (1-5) sobre la argumentación.
 
 ### Columnas:
 ID: Identificador anonimizado del estudiante.
+
 Essay: Texto del essay.
