@@ -41,3 +41,11 @@ Argumentation: Puntuación (1-5) sobre la argumentación.
 ID: Identificador anonimizado del estudiante.
 
 Essay: Texto del essay.
+
+# License
+
+ODC Attribution License (ODC-By)
+
+
+# Reference
+"García‐Martínez, C., Cerezo, R., Bermúdez, M., & Romero, C. (2019). Improving essay peer grading accuracy in massive open online courses using personalized weights from student's engagement and performance. Journal of Computer Assisted Learning, 35(1), 110-120."
