@@ -2,6 +2,12 @@
 
 Dataset used in the article: "García-Martínez, C., Cerezo, R., Bermúdez, M., & Romero, C. (2019). Improving essay peer grading accuracy in massive open online courses using personalized weights from student's engagement and performance. Journal of Computer Assisted Learning, 35(1), 110-120."
 
+# Format
+Comma-separated values (CSV)
+
+# Keywords
+massive open online courses, peer assessment, peer grading, weights‐based aggregation schemes
+
 # Metadata
 
 ## File: Instructor.csv
